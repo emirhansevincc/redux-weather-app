@@ -1,4 +1,7 @@
 Inspired by freeCodeCamp and adapted to redux
+
+![weather-app](https://user-images.githubusercontent.com/85807749/182251708-43b64634-6f21-4729-891a-fb3d84ce4d98.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
